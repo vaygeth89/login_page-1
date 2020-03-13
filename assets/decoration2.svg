@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="209px" viewBox="0 0 174 209" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>decoration2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-85.4%" y="-59.4%" width="269.8%" height="218.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.214597755   0 0 0 0 0.205959124   0 0 0 0 0.280004529  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="decoration2" filter="url(#filter-1)" transform="translate(88.000000, 103.000000) scale(-1, -1) rotate(-180.000000) translate(-88.000000, -103.000000) translate(40.000000, 34.000000)">
+            <g id="box">
+                <polygon id="Path-11-Copy" fill="#212121" points="94.0142838 107.595593 53.1937128 136.949575 4.45341109e-12 107.595593 40.7341966 76.9850382"></polygon>
+                <g id="lines" transform="translate(53.013610, 17.544209)" stroke="#D8D8D8">
+                    <line x1="0.280204251" y1="12.7268387" x2="0.175966422" y2="119.182349" id="line" stroke-linecap="round"></line>
+                    <line x1="2.89171213" y1="10.8938616" x2="2.7874743" y2="117.349372" id="line" stroke-linecap="round"></line>
+                    <line x1="5.50322002" y1="11.4175694" x2="5.50322002" y2="115.373556" id="line" stroke-linecap="round"></line>
+                    <line x1="8.1147279" y1="8.79903066" x2="7.85357711" y2="113.540579" id="line" stroke-linecap="round"></line>
+                    <line x1="10.7262358" y1="4.34751484" x2="10.465085" y2="111.707602" id="line" stroke-linecap="round"></line>
+                    <line x1="13.3377437" y1="2.77639162" x2="13.0765929" y2="109.874625" id="line" stroke-linecap="round"></line>
+                    <line x1="15.9492515" y1="0.157852902" x2="15.6881008" y2="108.041648" id="line" stroke-linecap="round"></line>
+                    <line x1="18.5607594" y1="29.1854587" x2="18.5607594" y2="105.984991" id="line" stroke-linecap="round"></line>
+                    <line x1="21.1722673" y1="27.3524424" x2="21.1722673" y2="104.11384" id="line" stroke-linecap="round"></line>
+                    <line x1="23.7837752" y1="25.5194266" x2="23.7837752" y2="102.280863" id="line" stroke-linecap="round"></line>
+                    <line x1="26.3952831" y1="23.6863208" x2="26.3952831" y2="100.447886" id="line" stroke-linecap="round"></line>
+                    <line x1="29.006791" y1="21.8533967" x2="28.7456402" y2="98.6149085" id="line" stroke-linecap="round"></line>
+                    <line x1="31.6182988" y1="20.0173377" x2="31.3571481" y2="96.7819314" id="line" stroke-linecap="round"></line>
+                    <line x1="34.2298067" y1="18.1842492" x2="33.9686559" y2="94.9489543" id="line" stroke-linecap="round"></line>
+                    <line x1="36.8413146" y1="16.3512575" x2="36.5801638" y2="93.1159772" id="line" stroke-linecap="round"></line>
+                    <line x1="39.1916717" y1="14.5598158" x2="39.1916717" y2="91.2830001" id="line" stroke-linecap="round"></line>
+                    <line x1="41.280878" y1="13.2505465" x2="40.6551818" y2="89.904918" id="line" stroke-linecap="square"></line>
+                </g>
+                <g id="lines-copy" transform="translate(0.000000, 0.785562)" stroke="#D8D8D8">
+                    <line x1="0.280204251" y1="29.9722908" x2="0.175966422" y2="106.421958" id="line" stroke-linecap="round"></line>
+                    <line x1="2.89171213" y1="28.4014885" x2="3.00323407" y2="104.610622" id="line" stroke-linecap="round"></line>
+                    <line x1="8.1147279" y1="27.091907" x2="8.22624983" y2="100.944667" id="line" stroke-linecap="round"></line>
+                    <line x1="10.5766069" y1="22.6503599" x2="10.5076772" y2="99.0546686" id="line" stroke-linecap="round"></line>
+                    <line x1="13.3377437" y1="22.6405624" x2="13.1881148" y2="97.0168593" id="line" stroke-linecap="round"></line>
+                    <line x1="15.9492515" y1="20.8075351" x2="15.7996227" y2="95.1838822" id="line" stroke-linecap="round"></line>
+                    <line x1="18.5607594" y1="16.354619" x2="18.5607594" y2="93.1541511" id="line" stroke-linecap="round"></line>
+                    <line x1="21.1722673" y1="14.5216027" x2="21.1722673" y2="91.2830001" id="line" stroke-linecap="round"></line>
+                    <line x1="23.7837752" y1="12.6885869" x2="23.7837752" y2="89.450023" id="line" stroke-linecap="round"></line>
+                    <line x1="26.3952831" y1="10.8554812" x2="26.3952831" y2="87.6170459" id="line" stroke-linecap="round"></line>
+                    <line x1="29.006791" y1="9.02255697" x2="28.7456402" y2="85.7840688" id="line" stroke-linecap="round"></line>
+                    <line x1="31.6182988" y1="7.18649798" x2="31.3571481" y2="83.9510917" id="line" stroke-linecap="round"></line>
+                    <line x1="34.2298067" y1="5.35340952" x2="33.9686559" y2="82.1181146" id="line" stroke-linecap="round"></line>
+                    <line x1="36.8413146" y1="3.52041779" x2="36.5801638" y2="80.2851375" id="line" stroke-linecap="round"></line>
+                    <line x1="39.1916717" y1="1.72897613" x2="39.1916717" y2="78.4521604" id="line" stroke-linecap="round"></line>
+                    <line x1="41.280878" y1="0.419706773" x2="40.6551818" y2="77.0740783" id="line" stroke-linecap="square"></line>
+                    <line x1="5.50322002" y1="28.4012272" x2="5.61474195" y2="102.777644" id="line" stroke-linecap="round"></line>
+                </g>
+                <polygon id="Path-11" fill="#9E9AB9" points="94.5365854 30.6105548 53.7160144 59.9645365 0.522301577 30.6105548 41.2564981 -5.95386772e-14"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
